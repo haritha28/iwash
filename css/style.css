@@ -309,7 +309,7 @@ hr {
 }
 
 #intro.intro {
-	padding:5% 0 0 0;
+	padding:0 0 0 0;
 }
 
 .intro .slogan {
@@ -791,18 +791,31 @@ Parallax
 	
 } 
 #logo img {
-width:25em;
-height:20m;
+margin-left:20em;
+width:10.5em;
+//height:11em;
 }
 #logo  {
-height:32m;
+width:25em;
+height:20m;
 }
 
 .slogan{
 width:50em;
-	margin-top:14em;
+	margin-top:28em;
     margin-left: auto;
     margin-right: auto
 }
 
+/* standard navbar */
+@media (max-width: 800px) {
+.navbar-brand {
+Display: none;
+}
+}
+
+/* mobile navbar */
+@media (max-width: 767px) {
+  ...
+}
 
