@@ -793,7 +793,6 @@ Parallax
 #logo img {
 margin-left:20em;
 width:10.5em;
-//height:11em;
 }
 #logo  {
 width:25em;
@@ -807,15 +806,7 @@ width:50em;
     margin-right: auto
 }
 
-/* standard navbar */
-@media (max-width: 800px) {
-.navbar-brand {
-Display: none;
-}
-}
 
-/* mobile navbar */
-@media (max-width: 767px) {
-  ...
+.text-color {
+color:blue;
 }
-
