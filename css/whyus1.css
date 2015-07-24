@@ -1,0 +1,80 @@
+/**********about-style**********/
+.grid{
+	position: relative;
+}
+.whyus
+{
+	background: #C0C6CC;
+	text-align:center;
+	padding: 5em 0em;
+}
+.whyus h2{
+	color:#606366;
+	font-size:2em;
+	padding-bottom: 0.5em;
+}
+.whyus p{
+	color:#fff;
+	font-size:1em;
+	padding-bottom: 4em;
+}
+.whyus-grids
+{
+	width:100%;
+	margin: 0 auto;
+}
+.grid
+{
+	width: 28%;
+	float: left;
+	/*background: #FFF;*/
+	margin-right: 8%;
+}
+.dc_zoom_css span.roll_css6:hover {
+	opacity: 0.9;
+	-o-transition-duration: 1s;
+	-moz-transition-duration: 1s;
+	-webkit-transition: -webkit-transform 1s;
+}
+.dc_zoom_css span.roll_css6 {
+	-o-transition-duration: 1s;
+	-moz-transition-duration: 1s;
+	-webkit-transition: -webkit-transform 1s;
+	height: 100%;
+	opacity: 0;
+	position: absolute;
+	width: 100%;
+}
+.dc_zoom_css span.roll_css6 img:hover {
+	opacity:1;
+}
+.post-person{
+	width:75%;
+}
+.grid:nth-child(3)
+{
+	margin-right: 0%;
+}
+.desc h3{
+	color: #292828;
+	font-size: 1.4em;
+	margin-top: 15px;
+}
+.desc p:nth-child(2)
+{
+	color:#444444;
+	font-size:1.1em;
+	/*font-style: italic;*/
+	margin: 5px 25px 9px 25px;
+	padding: 0;
+}
+.desc p:nth-child(3)
+{
+	color:#444444;
+	font-size:1.02em;
+	text-align: left;
+	padding: 1em 1em 2em 1em;
+	line-height: 1.9em;
+}
+/**********end-about-style**********/
+
